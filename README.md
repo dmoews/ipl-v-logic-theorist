@@ -85,11 +85,15 @@ the reference sections of both editions were also published separately
 
 ## How to use this repo
 
-You can run the Stefferud version of the Logic Theorist
-by running it on Rob Storey's IBM 7094 emulator.  This requires
+There are two ways you can run the Stefferud version of the Logic Theorist.
+
+1.  You can run it on Rob Storey's IBM 7094 emulator.  This requires
 fixing some bugs in Stefferud's code and working around some limitations
 in the version of IPL-V available in this emulator.
 See the subdirectory `7094` for how to do this.
+
+2.  You can run it on a new IPL-V interpreter, written in Python.  See the subdirectory
+`interpreter` for how to do this.
 
 ## File and directory list
 
@@ -113,6 +117,8 @@ ignored by the program.
 
 * `7094` — subdirectory explaining how to run this code on Rob Storey's IBM
 7094 emulator.
+
+* `interpreter` — subdirectory containing Python re-implementation of IPL-V and explanation of how to run the Stefferud code with it.
 
 ## References
 
