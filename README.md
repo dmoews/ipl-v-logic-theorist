@@ -115,6 +115,14 @@ also has a third section of input formulae following the sections of
 axioms and theorems to prove, but I haven't transcribed it as it's
 ignored by the program.
 
+* `logic-theorist-chapter-2-input.txt` — input formulae for
+the definition *1.01, the five propositional logic axioms from *1,
+and the theorems from *2 in _Principia Mathematica_
+
+* `logic-theorist-remember-all-theorems-patch.txt` — patch to make
+the Logic Theorist remember all theorems it's asked to prove as true,
+whether it succeeds in proving them or not
+
 * `7094` — subdirectory explaining how to run this code on Rob Storey's IBM
 7094 emulator.
 
