@@ -115,6 +115,10 @@ also has a third section of input formulae following the sections of
 axioms and theorems to prove, but I haven't transcribed it as it's
 ignored by the program.
 
+* `logic-theorist-1963-stefferud-output.txt` — output from
+the run of the Logic Theorist in [14], transcribed from
+pp. 82–107 of section XII of [14].
+
 * `logic-theorist-chapter-2-input.txt` — input formulae for
 the definition *1.01, the five propositional logic axioms from *1,
 and the theorems from *2 in _Principia Mathematica_
